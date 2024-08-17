@@ -1,12 +1,13 @@
-// setTimeout(() => {
-//     console.log('Hi!');
-//     setTimeout(() => {
-//         console.log('Hello!');
-//         setTimeout(() => {
-//             console.log('Hello There!');
-//         }, 5000);
-//     }, 3000);
-// }, 1000);
+/*setTimeout(() => {
+    console.log('Hi!');
+    setTimeout(() => {
+        console.log('Hello!');
+        setTimeout(() => {
+            console.log('Hello There!');
+        }, 5000);
+    }, 3000);
+}, 1000);
+*/
 
 //writing the same code using promise chaining
 
